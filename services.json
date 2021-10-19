@@ -1,44 +1,45 @@
+
 [
     {
       "id": 1,
       "name": "Painless Injection",
       "description": "Dental anxiety and dental phobia are real issues facing the profession. It’s estimated that anywhere from 9 to 15 percent of Americans — 30 to 40 million people — avoid dental appointments due to fear and anxiety, which they commonly link to pain associated with the visit.",
       "image": "https://i.ibb.co/L8k10x4/download.jpg",
-      "price": 2000
+      "price": 5000
     },
     {
       "id": 2,
-      "name": "Painless Injection",
-      "description": "Dental anxiety and dental phobia are real issues facing the profession. It’s estimated that anywhere from 9 to 15 percent of Americans — 30 to 40 million people — avoid dental appointments due to fear and anxiety, which they commonly link to pain associated with the visit.",
-      "image": "https://i.ibb.co/L8k10x4/download.jpg",
-      "price": 2000
+      "name": "Digital Dental Scanner",
+      "description": "The advanced Digital Dental Scanner detects Dental Caries in CARIO mode. It is also the only Tooth Scanner that uses auto-fluorescence and selective chromatic amplification. ",
+      "image": "https://i.ibb.co/cgg6m2N/15.jpg",
+      "price": 8000
     },
     {
       "id": 3,
-      "name": "Painless Injection",
-      "description": "Dental anxiety and dental phobia are real issues facing the profession. It’s estimated that anywhere from 9 to 15 percent of Americans — 30 to 40 million people — avoid dental appointments due to fear and anxiety, which they commonly link to pain associated with the visit.",
-      "image": "https://i.ibb.co/L8k10x4/download.jpg",
-      "price": 2000
+      "name": "Dental Filling",
+      "description": "Are your teeth unevenly spaced, irregular, or crowded together? Are they ground down, chipped, or cracked?",
+      "image": "https://i.ibb.co/wY1DgKG/14.png",
+      "price": 8000
     },
     {
       "id": 4,
-      "name": "Painless Injection",
-      "description": "Dental anxiety and dental phobia are real issues facing the profession. It’s estimated that anywhere from 9 to 15 percent of Americans — 30 to 40 million people — avoid dental appointments due to fear and anxiety, which they commonly link to pain associated with the visit.",
-      "image": "https://i.ibb.co/L8k10x4/download.jpg",
-      "price": 2000
+      "name": "Root Canal Treatment",
+      "description": "When decay or disease reaches the pulp of a tooth, you’ll know it. The pain and discomfort that result is unmistakable. The only solution to get rid of them and to save your natural tooth is Root Canal Therapy.",
+      "image": "https://i.ibb.co/rMbdPVY/13.jpg",
+      "price": 9000
     },
     {
       "id": 5,
-      "name": "Painless Injection",
-      "description": "Dental anxiety and dental phobia are real issues facing the profession. It’s estimated that anywhere from 9 to 15 percent of Americans — 30 to 40 million people — avoid dental appointments due to fear and anxiety, which they commonly link to pain associated with the visit.",
-      "image": "https://i.ibb.co/L8k10x4/download.jpg",
-      "price": 2000
+      "name": "Inlays & Onlays",
+      "description": "Dental Inlay and Onlay are a form of indirect restoration. This means they are made outside of the mouth as a single, solid piece. They will fit the specific size and shape of the cavity.",
+      "image": "https://i.ibb.co/z51bsBL/12.jpg",
+      "price": 5000
     },
     {
       "id": 6,
-      "name": "Painless Injection",
-      "description": "Dental anxiety and dental phobia are real issues facing the profession. It’s estimated that anywhere from 9 to 15 percent of Americans — 30 to 40 million people — avoid dental appointments due to fear and anxiety, which they commonly link to pain associated with the visit.",
-      "image": "https://i.ibb.co/L8k10x4/download.jpg",
-      "price": 2000
+      "name": "Teeth Guard",
+      "description": "If every patient would wear a Night Guard,” Dr. Shihabur Rahman has been overheard saying, “I would have only half of the work that I normally would.” Will a Night Guard prevent a cavity?",
+      "image": "https://i.ibb.co/NtP8qq5/10.jpg",
+      "price": 8000
     }
   ]
